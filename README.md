@@ -12,7 +12,7 @@
   </samp>
 </p>
 
-I am a full-stack engineer having more than two years of experience in the software industry. Have special interest in designing and implementing algorithms and solving problems out of my existing tech stack. 
+I am a full-stack engineer having more than two years of experience in the software industry. Have a special interest in designing and implementing algorithms and solving problems whose solutions lie out of my existing tech stack. 
 
 - :technologist: I’m currently working as Full-Stack Engineer (Python, Django and ReactJS)
 - :lotus_position: I’m currently learning ReactJS and React Native
