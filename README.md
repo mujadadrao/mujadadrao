@@ -1,5 +1,3 @@
-### Hello there 👋,
-
 <p align="center">
   <img src="https://media.giphy.com/media/3oEduZZKNgVOzaInUQ/giphy.gif" width="30%" height="30%">
   <br/>
@@ -11,6 +9,8 @@
     A Full-Stack Web Developer!
   </samp>
 </p>
+
+### Hello there 👋,
 
 I am a full-stack web developer having more than two years of experience in the software industry. Have a special interest in designing and implementing algorithms and solving problems related to tech I am unfamiliar with. 
 
