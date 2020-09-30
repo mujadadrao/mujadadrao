@@ -1,4 +1,4 @@
-### Hi there 👋, I am Rao
+### Hello there 👋,
 
 <p align="center">
   <img src="https://media.giphy.com/media/3oEduZZKNgVOzaInUQ/giphy.gif" width="30%" height="30%">
