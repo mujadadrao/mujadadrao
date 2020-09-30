@@ -14,9 +14,13 @@
 
 I am a full-stack web developer having more than two years of experience in the software industry. Have a special interest in designing and implementing algorithms and solving problems related to tech I am unfamiliar with. 
 
-- :technologist: I’m currently working as Full-Stack Engineer (Python, Django and ReactJS)
+```javascript
+  let techStack = ['Python', 'Django', 'ReactJS', 'React Native', 'Redux'];
+```
+
+- :technologist: I’m currently working as Full-Stack Engineer (```{techStack}```)
 - :lotus_position: I’m currently learning ReactJS and React Native
-- :people_holding_hands: I’m looking to collaborate on Python, Django and ReactJS projects
+- :people_holding_hands: I’m looking to collaborate on ```{techStack}``` projects
 
 - :eyes: Fun fact: I started off as a Machine Learning Engineer and switched after ~8 months. Even after switching I worked with multiple algorithms and did full-stack development simultaneously.
 
