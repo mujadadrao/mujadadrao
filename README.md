@@ -15,7 +15,7 @@
 I am a full-stack web developer having more than two years of experience in the software industry. Have a special interest in designing and implementing algorithms and solving problems related to tech I am unfamiliar with. 
 
 ```javascript
-  let techStack = ['Python', 'Django', 'ReactJS', 'React Native', 'Redux'];
+  const techStack = ['Python', 'Django', 'ReactJS', 'React Native', 'Redux'];
 ```
 
 - :technologist: I’m currently working as Full-Stack Engineer (```{techStack}```)
