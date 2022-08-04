@@ -18,7 +18,7 @@ I am a full-stack web developer having more than four years of experience in the
   const techStack = ['ReactJS', 'ReactTS', 'TypeScript', 'JavaScript', 'Python', 'Django'];
 ```
 
-- :technologist: I’m currently working as Senior Frontend Developer (ReactJS).
+- :technologist: I’m currently working as a Senior Frontend Developer (ReactJS).
 - :lotus_position: I’m currently learning Docker
 - :people_holding_hands: I’m looking to collaborate on projects involving ```{techStack}```
 
