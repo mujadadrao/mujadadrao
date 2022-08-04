@@ -12,13 +12,13 @@
 
 ### Hello there 👋,
 
-I am a full-stack web developer having more than two years of experience in the software industry. Have a special interest in designing and implementing algorithms and solving problems related to tech I am unfamiliar with. 
+I am a full-stack web developer having more than four years of experience in the software industry. Have a special interest in solving problems related to tech I am unfamiliar with. 
 
 ```javascript
-  const techStack = ['Python', 'Django', 'ReactJS', 'React Native', 'Redux', 'GraphQL'];
+  const techStack = ['ReactJS', 'ReactTS', 'TypeScript', 'JavaScript', 'Python', 'Django'];
 ```
 
-- :technologist: I’m currently working as Full-Stack Engineer (```{techStack}```)
+- :technologist: I’m currently working as Senior Frontend Developer (ReactJS).
 - :lotus_position: I’m currently learning Docker
 - :people_holding_hands: I’m looking to collaborate on projects involving ```{techStack}```
 
