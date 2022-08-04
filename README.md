@@ -24,7 +24,7 @@ I am a full-stack web developer having more than four years of experience in the
 
 - :eyes: Fun fact: I started off as a Machine Learning Engineer and switched after ~8 months. Even after switching I worked with multiple algorithms and did full-stack development simultaneously.
 
-![Rao's Github Stats](https://github-readme-stats.vercel.app/api?username=mujadadrao&count_private=true&show_icons=true)
+![Rao's Github Stats](https://github-readme-stats.vercel.app/api?username=mujadadrao&theme=material-palenight&show_icons=true)
 
 <p align="center"> 
   <strong> Ping me! :envelope_with_arrow: </strong>
