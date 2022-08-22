@@ -22,7 +22,7 @@ I am a full-stack web developer having more than four years of experience in the
 - :lotus_position: I’m currently learning Docker
 - :people_holding_hands: I’m looking to collaborate on projects involving ```{techStack}```
 
-- :eyes: Fun fact: I started off as a Machine Learning Engineer and switched after ~8 months. Even after switching I worked with multiple algorithms and did full-stack development simultaneously.
+- :eyes: Fun fact: I started off as a Machine Learning Engineer and switched after almost a year. Even after switching I worked with multiple algorithms and did full-stack development simultaneously.
 
 ![Rao's Github Stats](https://github-readme-stats.vercel.app/api?username=mujadadrao&theme=material-palenight&show_icons=true)
 
